@@ -31,5 +31,5 @@ It combines **OCR (Optical Character Recognition)** with **Large Language Models
 
 ---
 
-## 📂 Project Structure
+
 
