@@ -1,0 +1,7 @@
+streamlit
+easyocr
+Pillow
+pdf2image
+pandas
+python-docx
+google-generativeai
